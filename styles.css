@@ -1,0 +1,23 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: powderblue;
+}
+
+input{
+    background-color: #fffdd0;
+}
+
+header{
+    color: blueviolet;
+}
+
+h2{
+    color: blueviolet;
+}
+
+label{
+    color: blueviolet;
+}
